@@ -1,0 +1,22 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwind1103/MyProject.git"
+  },
+  "author": "inhwi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwind1103/MyProject/issues"
+  },
+  "homepage": "https://github.com/hwind1103/MyProject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
